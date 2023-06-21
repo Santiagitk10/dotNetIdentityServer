@@ -12,7 +12,7 @@ using Server.Data;
 namespace Server.Migrations.AspNetIdentityDb
 {
     [DbContext(typeof(AspNetIdentityDbContext))]
-    [Migration("20230615160706_InitialAspNetIdentityMigration")]
+    [Migration("20230621150553_InitialAspNetIdentityMigration")]
     partial class InitialAspNetIdentityMigration
     {
         /// <inheritdoc />
