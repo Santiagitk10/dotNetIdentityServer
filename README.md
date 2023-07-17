@@ -98,3 +98,9 @@ Se tendra una respuesta con el seed y ya las tablas tendrán el seed data
 Part 2
 
 https://www.youtube.com/watch?v=rNqgxAqGZJ8
+
+
+
+Repo del tutorial
+
+https://github.com/codewithiulian/CoffeeShopper-IS4
